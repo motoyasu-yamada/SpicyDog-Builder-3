@@ -1,0 +1,10 @@
+AppClass=b
+AppName=sdp
+KvmVer=CLDC-1.0
+AppVer=sdc3
+SPSize=10240
+UseNetwork=http
+AppSize=
+AppParam=
+LastModified=
+PackageURL=
